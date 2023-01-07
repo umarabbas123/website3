@@ -1,3 +1,3 @@
 
-From hasar/webapp
+FROM hasar/webapp
 ADD . /var/www/html
